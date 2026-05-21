@@ -435,7 +435,7 @@ citas-medicas-api-contract/
 **URL de ejemplo (reemplazar con la tuya):**
 
 ```
-https://github.com/TU_USUARIO/citas-medicas-api-contract
+https://github.com/nicevall/ARQ_PE_Actividad_S2.git
 ```
 
 **README.md sugerido:**
